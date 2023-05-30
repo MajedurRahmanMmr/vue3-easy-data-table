@@ -1,9 +1,9 @@
 {
-  "name": "vue3-easy-data-table",
-  "author": "HC200ok",
-  "description": "A customizable and easy-to-use data table component made with Vue.js 3.x.",
+  "name": "nuxt-data-table",
+  "author": "Technuf LLC",
+  "description": "A customizable and easy-to-use data table component for Nuxt3",
   "private": false,
-  "version": "1.5.43",
+  "version": "1.5.44",
   "types": "./types/main.d.ts",
   "license": "MIT",
   "files": [
@@ -17,7 +17,7 @@
     "vue3-component",
     "vue-component"
   ],
-  "homepage": "https://github.com/HC200ok/vue3-easy-data-table",
+  "homepage": "https://github.com/MajedurRahmanMmr/vue3-easy-data-table",
   "main": "./dist/vue3-easy-data-table.umd.js",
   "module": "./dist/vue3-easy-data-table.es.js",
   "type": "module",
